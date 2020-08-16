@@ -1,0 +1,58 @@
+header{
+  width: auto;
+  height: 180px;
+  background-color: white;
+}
+
+/* main */
+
+.main{
+  width: auto;
+  height: 900px;
+  background-color: mintcream;
+}
+
+.main_left{
+  display: inline-block;
+  float: left;
+  width: 50%;
+}
+.main_left img{
+  margin-left: auto;
+  margin-right: auto;
+  width: 518px;
+  height: 340px;
+}
+
+.main_right{
+  display: inline-block;
+  float: right;
+  width: 50%;
+}
+
+.main_right img{
+  margin-left: auto;
+  margin-right: auto;
+  width: 522px; 
+  height: 735px;
+}
+
+/* sub main */
+.cheering h1{
+  border: 1px solid red;
+}
+
+/* footer */
+footer{
+  height: 230px;
+  width: auto;
+  background-color: snow;
+  text-align: right;
+  padding-right: 30px;
+}
+
+
+.Iinan_number{
+  padding-top: 10px;
+}
+
